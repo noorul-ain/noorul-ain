@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**noorul-ain/noorul-ain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Noor-ul-ain</h1>
+<h3 align="center">A passionate Backend from Pakistan</h3>
+<img align='right' alt='coding' width='400' src='data:image/png;base64,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'>
 
-Here are some ideas to get you started:
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=noorul-ain&label=Profile%20views&color=0e75b6&style=flat" alt="noorul-ain" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/noorul-ain](https://github.com/noorul-ain)
+
+- 📫 How to reach me **noorajmari789@gmail.com**
+
+- ⚡ Fun fact **I am introvert**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/noor abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor abbasi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorul-ain&show_icons=true&locale=en&layout=compact" alt="noorul-ain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorul-ain&show_icons=true&locale=en" alt="noorul-ain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorul-ain&" alt="noorul-ain" /></p>
