@@ -18,14 +18,13 @@
 <h3 align="left">Current Projects:</h3>
 <ul>
     <li>🔭 I’m currently working on <b>Video & Chat Application</b></li>
-    <li>🌱 I’m currently learning <b>React & Redux</b>/li>
-    <li>🔭 I’m currently working on Full-Stack Application-(https://github.com/noorul-ain/Construction-app)</li>
+    <li>🌱 I’m currently learning <b>React & Redux</b></li>
+    <li>🔭 I’m currently working on [Full-Stack Application](https://github.com/noorul-ain/Construction-app)</li>
     <li>🔨 I’m also developing Dream Home Project - a custom remodeling website</li>
 </ul>
 
 <p align="left">📫 How to reach me: noorajmari789@gmail.com</p>
 <p align="left">All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,6 +74,15 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+    </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="40" height="40"/>
+    </a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+        <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/bs4.jpg" alt="beautifulsoup" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Coding Streak:</h3>
@@ -82,8 +90,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulain" alt="Coding streak"/>
 </p>
 
+<h3 align="left">Contribution Graph:</h3>
+<p align="left">
+    <img src="https://github-contribs.vercel.app/api?username=noorulain" alt="Contributions"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorul-ain&show_icons=true&locale=en&layout=compact" alt="noorul-ain" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulain&show_icons=true&locale=en&layout=compact" alt="noorulain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorul-ain&show_icons=true&locale=en" alt="noorul-ain" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorulain&show_icons=true&locale=en" alt="noorulain" /></p>
