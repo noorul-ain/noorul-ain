@@ -73,30 +73,7 @@
     </a>
 </p>
 
-<h3 align="left">Top Repositories:</h3>
-<p align="left">
-    <a href="https://github.com/noorulain/Full-StackApplication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorulain&repo=Full-StackApplication" alt="Full-Stack Application"/>
-    </a>
-    <a href="https://github.com/noorulain/AnotherProject">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorulain&repo=AnotherProject" alt="Another Project"/>
-    </a>
-</p>
 
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-    <img src="https://profileviews.io/api/views/noorulain" alt="Profile views"/>
-</p>
-
-<h3 align="left">Recent Activity:</h3>
-<p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=noorulain&theme=react-dark" alt="Recent activity"/>
-</p>
-
-<h3 align="left">Languages I Use:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulain&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
-</p>
 
 <h3 align="left">Coding Streak:</h3>
 <p align="left">
