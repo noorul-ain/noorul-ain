@@ -24,7 +24,7 @@
 
 </ul>
 
-<p align="left">All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
+<p >All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
