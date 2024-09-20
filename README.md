@@ -82,25 +82,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulain" alt="Coding streak"/>
 </p>
 
-<h3 align="left">Contribution Graph:</h3>
-<p align="left">
-    <img src="https://github-contribs.vercel.app/api?username=noorulain" alt="Contributions"/>
-</p>
 
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulain&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
-</p>
-
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-    <img src="https://profileviews.io/api/views/noorulain" alt="Profile views"/>
-</p>
-
-<h3 align="left">Recent Activity:</h3>
-<p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=noorulain&theme=react-dark" alt="Recent activity"/>
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorul-ain&show_icons=true&locale=en&layout=compact" alt="noorul-ain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorul-ain&show_icons=true&locale=en" alt="noorul-ain" /></p>
