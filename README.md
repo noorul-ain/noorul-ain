@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noor-ul-ain</h1>
-<h3 align="center">I am learning and developing with passion 😊</h3>
+<h3 align="center">I am passionate about learning and developing new technologies 😊</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,12 +20,16 @@
     <li>🔭 I’m currently working on **Video & Chat Application**</li>
     <li>🌱 I’m currently learning **React & Redux**</li>
     <li>🔭 I’m currently working on [Full-Stack Application](https://github.com/noorul-ain/Construction-app)</li>
+    <li>🔨 I’m also developing **Dream Home Project** - a custom remodeling website</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/noorulain" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noorulain" height="30" width="40" />
+    </a>
+    <a href="mailto:noorajmari789@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Email-%40noorajmari789%40gmail.com-blue?style=flat&logo=gmail" alt="Email" height="30" width="100"/>
     </a>
 </p>
 
