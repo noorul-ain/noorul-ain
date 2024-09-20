@@ -20,7 +20,7 @@
     <li>🌱 I’m currently learning <b>React & Redux</b></li>
     <li>🔭 I’m currently working on Full-Stack Application::https://github.com/noorul-ain/Construction-app</li>
     <li>🔨 I’m also developing Dream Home Project - a custom remodeling website</li>
-    <li>align="left">📫 How to reach me: noorajmari789@gmail.com</li> 
+    <li>📫 How to reach me: noorajmari789@gmail.com</li> 
 
 </ul>
 
