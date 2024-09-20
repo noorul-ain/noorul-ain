@@ -18,14 +18,14 @@
 <h3 align="left">Current Projects:</h3>
 <ul>
     <li>🔭 I’m currently working on <b>Video & Chat Application</b></li>
-    <li>🌱 I’m currently learning React & Redux</li>
+    <li>🌱 I’m currently learning <b>React & Redux</b>/li>
     <li>🔭 I’m currently working on Full-Stack Application-(https://github.com/noorul-ain/Construction-app)</li>
     <li>🔨 I’m also developing Dream Home Project - a custom remodeling website</li>
 </ul>
 
+<p align="left">📫 How to reach me: noorajmari789@gmail.com</p>
 <p align="left">All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
 
-<p align="left">📫 How to reach me: noorajmari789@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
