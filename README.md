@@ -15,7 +15,6 @@
     </a>
 </p>
 
-<h3 align="left">Current Projects:</h3>
 <ul>
     <li>🔭 I’m currently working on <b>Video & Chat Application</b></li>
     <li>🌱 I’m currently learning <b>React & Redux</b></li>
