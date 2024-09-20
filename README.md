@@ -7,14 +7,6 @@
     </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-    <a href="https://github.com/noorulain">
-        <img src="https://img.shields.io/github/followers/noorulain?label=Followers&style=social" alt="GitHub followers"/>
-        <img src="https://img.shields.io/github/stars/noorulain?label=Stars&style=social" alt="GitHub stars"/>
-    </a>
-</p>
-
 <ul>
     <li>🔭 I’m currently working on <b>Video & Chat Application</b></li>
     <li>🌱 I’m currently learning <b>React & Redux</b></li>
