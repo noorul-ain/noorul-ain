@@ -88,13 +88,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulain" alt="Coding streak"/>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulain&show_icons=true&locale=en&layout=compact" alt="noorulain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorulain&show_icons=true&locale=en" alt="noorulain" /></p>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorul-ain&show_icons=true&locale=en&layout=compact" alt="noorul-ain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorul-ain&show_icons=true&locale=en" alt="noorul-ain" /></p>
