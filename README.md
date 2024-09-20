@@ -23,10 +23,14 @@
     <li>🔨 I’m also developing **Dream Home Project** - a custom remodeling website</li>
 </ul>
 
+<p align="left">All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
+
+<p align="left">📫 How to reach me: **noorajmari789@gmail.com**</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/noorulain" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noorulain" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="mailto:noorajmari789@gmail.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/Email-%40noorajmari789%40gmail.com-blue?style=flat&logo=gmail" alt="Email" height="30" width="100"/>
@@ -73,8 +77,6 @@
     </a>
 </p>
 
-
-
 <h3 align="left">Coding Streak:</h3>
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulain" alt="Coding streak"/>
@@ -85,6 +87,22 @@
     <img src="https://github-contribs.vercel.app/api?username=noorulain" alt="Contributions"/>
 </p>
 
-<p align="left">All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
+<h3 align="left">Top Languages:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulain&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
+</p>
 
-<p align="left">📫 How to reach me: **noorajmari789@gmail.com**</p>
+<h3 align="left">Profile Views:</h3>
+<p align="left">
+    <img src="https://profileviews.io/api/views/noorulain" alt="Profile views"/>
+</p>
+
+<h3 align="left">Recent Activity:</h3>
+<p align="left">
+    <img src="https://activity-graph.herokuapp.com/graph?username=noorulain&theme=react-dark" alt="Recent activity"/>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorul-ain&show_icons=true&locale=en&layout=compact" alt="noorul-ain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorul-ain&show_icons=true&locale=en" alt="noorul-ain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorul-ain&" alt="noorul-ain" /></p>
