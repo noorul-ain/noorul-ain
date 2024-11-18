@@ -13,10 +13,9 @@
     <li>🔭 I’m currently working on Full-Stack Application::https://github.com/noorul-ain/Construction-app</li>
     <li>🔨 I’m also developing Dream Home Project - a custom remodeling website</li>
     <li>📫 How to reach me: noorajmari789@gmail.com</li> 
-
 </ul>
 
-<p >All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
+<p>All of my projects are available at <a href="https://github.com/noorul-ain">https://github.com/noorul-ain</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,7 +71,6 @@
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="40" height="40"/>
     </a>
-
 </p>
 
 <h3 align="left">Coding Streak:</h3>
